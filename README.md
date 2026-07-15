@@ -2,9 +2,11 @@
 
 # Hi, I'm Kashif Qureshi 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Junior+Data+Analyst;AI+Automation;Web+Scraping;Always+Learning+Something+New" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=650&lines=Junior+Data+Analyst;AI+Automation;Web+Scraping;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 
-### Turning raw data into business insights.
+I'm passionate about solving business problems with data and building practical AI-powered solutions.
 
 </div>
 
@@ -12,13 +14,11 @@
 
 ## About Me
 
-I'm a **Data Science student** at the **Virtual University of Pakistan** with a strong interest in **Data Analytics**, **AI Automation**, and **Web Scraping**.
+I'm a Data Science student at the **Virtual University of Pakistan** with a strong interest in **Data Analytics, AI Automation, and Web Scraping**.
 
-I enjoy solving real business problems with data instead of just building tutorial projects.
+I'm currently building real-world projects using **Python, SQL, Pandas, NumPy, and Power BI**.
 
-Currently I'm building end-to-end analytics projects using **Python**, **SQL**, **Power BI**, **Pandas**, and **NumPy**.
-
-I'm actively looking for a **Junior Data Analyst** opportunity in **Islamabad** or a **Remote** role.
+I'm looking for a **Junior Data Analyst** opportunity in **Islamabad** or a **Remote** role where I can learn, contribute, and grow.
 
 ---
 
@@ -26,109 +26,46 @@ I'm actively looking for a **Junior Data Analyst** opportunity in **Islamabad** 
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,tensorflow" />
 
 </p>
 
-### Data Analytics
+**Also Working With**
 
 - Power BI
 - Pandas
 - NumPy
 - Jupyter Notebook
 - Google Colab
-
-### Automation
-
 - AI Automation (GoHighLevel)
 - Web Scraping
 
 ---
 
-## Featured Projects
-
-> These projects will be linked once each one has its own repository.
-
-### 📊 Bank Customer Churn Analysis *(Coming Soon)*
-
-Python • SQL • Power BI
-
-Business-driven customer churn analysis with an interactive dashboard and actionable insights.
-
----
-
-### 💳 Credit Card Fraud Detection
-
-Machine Learning Classification
-
----
-
-### 👥 Customer Segmentation
-
-K-Means Clustering
-
----
-
-### 🏡 House Price Prediction
-
-Regression
-
----
-
-### 🏦 Loan Approval Prediction
-
-Classification
-
----
-
-### 🧠 Brain Tumor Detection
-
-Deep Learning (CNN)
-
----
 
 ## Currently Learning
 
 - SQL for Data Analytics
-- Building End-to-End Data Analytics Projects
+- End-to-End Analytics Projects
 - AI Automation
 
 ---
 
 ## Connect With Me
 
-<p>
-
-<a href="https://www.linkedin.com/in/kaashifqureshi/">
-
-<img src="https://skillicons.dev/icons?i=linkedin" />
-
+<p align="left">
+<a href="https://www.linkedin.com/in/kaashifqureshi/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:taskstride@gmail.com">
-
-<img src="https://skillicons.dev/icons?i=gmail" />
-
+<img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
 </a>
 
 </p>
 
-**Email**
+**Email:** taskstride@gmail.com
 
-taskstride@gmail.com
+**Phone:** +92 325 5752155
 
-**Phone**
-
-+92 325 5752155
-
-**Location**
-
-Islamabad, Pakistan
-
----
-
-<div align="center">
-
-*"Always learning. Always building."*
-
-</div>
+**Location:** Islamabad, Pakistan
