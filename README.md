@@ -2,7 +2,9 @@
 
 # Hi, I'm Kashif Qureshi 👋
 
-### Junior Data Analyst • AI Automation • Web Scraping
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=650&lines=Junior+Data+Analyst;AI+Automation;Web+Scraping;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 
 I'm passionate about solving business problems with data and building practical AI-powered solutions.
 
