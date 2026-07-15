@@ -42,18 +42,6 @@ I'm looking for a **Junior Data Analyst** opportunity in **Islamabad** or a **Re
 
 ---
 
-## Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **Bank Customer Churn Analysis** | End-to-end customer churn analysis using Python, SQL and Power BI. |
-| **Credit Card Fraud Detection** | Machine Learning classification project. |
-| **Customer Segmentation** | Customer clustering using K-Means. |
-| **House Price Prediction** | Regression model for house prices. |
-| **Loan Approval Prediction** | Classification model for loan approval. |
-| **Brain Tumor Detection** | Deep Learning using CNN. |
-
----
 
 
 ## Currently Learning
