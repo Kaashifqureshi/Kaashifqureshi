@@ -55,15 +55,6 @@ I'm looking for a **Junior Data Analyst** opportunity in **Islamabad** or a **Re
 
 ---
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaashifqureshi&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" width="48%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaashifqureshi&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" width="48%" />
-</p>
 
 ## Currently Learning
 
