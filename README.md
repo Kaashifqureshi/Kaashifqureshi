@@ -54,6 +54,19 @@ I'm looking for a **Junior Data Analyst** opportunity in **Islamabad** or a **Re
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/kaashifqureshi/
-- Email: taskstride@gmail.com
-- Phone: +92 325 5752155
+<p align="left">
+<a href="https://www.linkedin.com/in/kaashifqureshi/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:taskstride@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
+</a>
+
+</p>
+
+**Email:** taskstride@gmail.com
+
+**Phone:** +92 325 5752155
+
+**Location:** Islamabad, Pakistan
