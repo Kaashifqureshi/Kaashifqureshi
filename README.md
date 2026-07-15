@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  
 I'm passionate about solving business problems with data and building practical AI-powered solutions.
 </p>
 ## About Me
@@ -16,3 +17,19 @@ I'm a Data Science student at the Virtual University of Pakistan with a strong i
 Currently, I'm building end-to-end data projects using Python, SQL, Pandas, NumPy, and Power BI to solve real business problems.
 
 I'm looking for a Junior Data Analyst opportunity in Islamabad or a Remote role where I can continue learning and contribute to real-world projects.
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,tensorflow" />
+</p>
+
+- Power BI
+- AI Automation (GoHighLevel)
+- Web Scraping
+- Jupyter Notebook
+- Google Colab
