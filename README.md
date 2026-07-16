@@ -18,11 +18,13 @@ I'm passionate about solving business problems with data and building practical 
 
 ## About Me
 
-I'm a Data Science student at the **Virtual University of Pakistan** with a strong interest in **Data Analytics, AI Automation, and Web Scraping**.
+I'm a Data Science student at the **Virtual University of Pakistan** passionate about solving business problems through data.
 
-I'm currently building real-world projects using **Python, SQL, Pandas, NumPy, and Power BI**.
+My interests include **Data Analytics**, **Machine Learning**, **AI Automation**, and **Web Scraping**.
 
-I'm looking for a **Junior Data Analyst** opportunity in **Islamabad** or a **Remote** role where I can learn, contribute, and grow.
+Currently, I'm building end-to-end projects using **Python, SQL, Pandas, NumPy, and Power BI**.
+
+I'm actively looking for a **Junior Data Analyst** opportunity in **Islamabad** or **Remote**.
 
 ---
 
