@@ -1,3 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
 .delColor {fill: #f85149;}
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
@@ -31,7 +44,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="510">++++*******+-::-++**********++</tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
-<tspan x="390" y="30">kashif@qureshi</tspan> -—————————————————————————————————————-—-
+<tspan x="390" y="30">kashif@qureshi</tspan> -———————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ....................</tspan><tspan class="value">Jr. Data Analyst | AI Automation</tspan>
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">GitHub Since</tspan>:<tspan class="cc" id="age_data_dots"></tspan><tspan class="value" id="age_data">2 years, 2 months, 22 days</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">University</tspan>:<tspan class="cc"> ................</tspan><tspan class="value">Virtual University of Pakistan</tspan>
