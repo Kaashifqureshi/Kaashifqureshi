@@ -34,15 +34,17 @@ I'm looking for a **Junior Data Analyst** opportunity in **Islamabad** or a **Re
 
 </p>
 
-**Also Working With**
+### Also Working With
 
-- Power BI
-- Pandas
-- NumPy
-- Jupyter Notebook
-- Google Colab
-- AI Automation (GoHighLevel)
-- Web Scraping
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black">
+<img src="https://img.shields.io/badge/Web_Scraping-0A66C2?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI_Automation-7B42F6?style=for-the-badge">
+</p>
 
 ---
 
