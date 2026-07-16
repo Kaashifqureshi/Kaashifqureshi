@@ -33,6 +33,8 @@ def format_plural(unit):
 def simple_request(func_name, query, variables):
     request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables':variables}, headers=HEADERS)
     if request.status_code == 200:
+        if 'data' not in request.json():
+            raise Exception(func_name, ' returned no data. GraphQL response:', request.json())
         return request
     raise Exception(func_name, ' has failed with a', request.status_code, request.text, QUERY_COUNT)
 
