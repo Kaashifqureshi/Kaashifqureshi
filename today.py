@@ -10,7 +10,7 @@ import hashlib
 # Account permissions: read:Followers, read:Starring, read:Watching
 # Repository permissions: read:Commit statuses, read:Contents, read:Issues, read:Metadata, read:Pull Requests
 HEADERS = {'authorization': 'token '+ os.environ['ACCESS_TOKEN']}
-USER_NAME = os.environ['Kaashifqureshi'] # 'Kaashifqureshi'
+USER_NAME = os.environ['USER_NAME'] # 'Kaashifqureshi'
 QUERY_COUNT = {'user_getter': 0, 'follower_getter': 0, 'graph_repos_stars': 0, 'recursive_loc': 0, 'graph_commits': 0, 'loc_query': 0}
 
 
@@ -137,6 +137,7 @@ def loc_query(owner_affiliation, comment_size=0, force_cache=False, cursor=None,
                 pageInfo { endCursor hasNextPage }
             }
         }
+    }
     }'''
     variables = {'owner_affiliation': owner_affiliation, 'login': USER_NAME, 'cursor': cursor}
     request = simple_request(loc_query.__name__, query, variables)
