@@ -146,6 +146,7 @@ def loc_query(owner_affiliation, comment_size=0, force_cache=False, cursor=None,
     }'''
     variables = {'owner_affiliation': owner_affiliation, 'login': USER_NAME, 'cursor': cursor}
     request = simple_request(loc_query.__name__, query, variables)
+    print(request.json())
     if request.json()['data']['user']['repositories']['pageInfo']['hasNextPage']:
         edges += request.json()['data']['user']['repositories']['edges']
         return loc_query(owner_affiliation, comment_size, force_cache, request.json()['data']['user']['repositories']['pageInfo']['endCursor'], edges)
