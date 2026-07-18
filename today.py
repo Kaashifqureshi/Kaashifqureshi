@@ -30,13 +30,21 @@ def format_plural(unit):
     return 's' if unit != 1 else ''
 
 
-def simple_request(func_name, query, variables):
-    request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables':variables}, headers=HEADERS)
-    if request.status_code == 200:
-        if 'data' not in request.json():
-            raise Exception(func_name, ' returned no data. GraphQL response:', request.json())
-        return request
-    raise Exception(func_name, ' has failed with a', request.status_code, request.text, QUERY_COUNT)
+def simple_request(func_name, query, variables, max_retries=3, backoff_seconds=5):
+    last_error = None
+    for attempt in range(1, max_retries + 1):
+        request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables':variables}, headers=HEADERS)
+        if request.status_code == 200:
+            if 'data' in request.json():
+                return request
+            last_error = Exception(func_name, ' returned no data. GraphQL response:', request.json())
+        else:
+            last_error = Exception(func_name, ' has failed with a', request.status_code, request.text, QUERY_COUNT)
+        if attempt < max_retries:
+            print(f'{func_name}: attempt {attempt} failed ({last_error}), retrying in {backoff_seconds}s...')
+            time.sleep(backoff_seconds)
+            backoff_seconds *= 2
+    raise last_error
 
 
 def graph_repos_stars(count_type, owner_affiliation, cursor=None):
