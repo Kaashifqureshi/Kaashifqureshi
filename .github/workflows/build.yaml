@@ -1,10 +1,13 @@
 name: README build
+# Runs on every push to main and daily at 04:00 UTC to refresh profile stats
 on:
   push:
     branches:
       - main
   schedule:
     - cron: "0 4 * * *"
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
